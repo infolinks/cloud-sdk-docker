@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.6
 ENV CLOUD_SDK_VERSION 178.0.0
 
 ENV PATH /google-cloud-sdk/bin:$PATH
